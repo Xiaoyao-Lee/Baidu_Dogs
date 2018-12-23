@@ -1,3 +1,4 @@
+Forked 我们队长的github: https://github.com/freelzy/Baidu_Dogs
 # Baidu_Dogs
 百度西交第三届大数据比赛Baseline(全国第4名)
 
